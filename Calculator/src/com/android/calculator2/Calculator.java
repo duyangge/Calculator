@@ -57,6 +57,7 @@ import com.android.calculator2.CalculatorEditText.OnTextSizeChangeListener;
 import com.android.calculator2.CalculatorExpressionEvaluator.EvaluateCallback;
 /**
 描述：
+1.0版本
 */
 public class Calculator extends Activity
         implements OnTextSizeChangeListener, EvaluateCallback, OnLongClickListener {
