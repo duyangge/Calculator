@@ -81,7 +81,7 @@ public class Calculator extends Activity
     
 
 
-    private CalculatorState mCurrentState;//当前计算器状态值
+    private CalculatorState mCurrentState;//当前计算器状态值：
 	
     private CalculatorExpressionTokenizer mTokenizer;//适用于多语言环境替换字符
 	
